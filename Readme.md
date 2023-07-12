@@ -1,4 +1,4 @@
-# Final Project : AMR
+# Path Planning Algorithm with ROS and Python
 
 The objective is to move the turtlebot with unique algorithm to the maximum number of given goals ,avoiding the obstacles in the arena.
 
